@@ -1,0 +1,28 @@
+<?php
+namespace Home\Controller;
+use Think\Controller;
+class IndexController extends Controller
+{
+    public function index()
+    {
+
+		$pinyin=M("pinyin");
+		if(isset($_GET['ID'])){
+
+		$ID=isset($_GET['ID']);
+		
+        $arr=$pinyin->where('ID='.$ID)->select();
+
+		}else{
+			 $arr=$pinyin->select();
+
+		}
+       
+       
+        echo json_encode($arr);
+        //$arr['aaa']='111';
+        //$this->assign('arr',$arr);
+       // $this->display();
+
+    }
+}

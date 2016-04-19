@@ -1,0 +1,104 @@
+[ 2016-03-28T13:35:45+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014888s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010727s ]
+
+[ 2016-03-28T13:36:52+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002247s ]
+
+[ 2016-03-28T13:39:42+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001855s ]
+
+[ 2016-03-28T13:40:32+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002040s ]
+
+[ 2016-03-28T14:47:48+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001429s ]
+
+[ 2016-03-28T15:26:15+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019914s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0191s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013483s ]
+
+[ 2016-03-28T20:42:40+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.055355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018127s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0515s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.042922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.043084s ]
+
+[ 2016-03-28T20:43:20+08:00 ] 192.168.88.1 /better/Pinyin/app/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `pinyin` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `pinyin`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002237s ]
+
